@@ -47,12 +47,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable backend sol
 ---
 
 ## 📈 **GitHub Stats**
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=backlogcode&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=backlogcode&layout=compact&theme=radical)
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nchimunyascripts&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nchimunyascripts&layout=compact&theme=radical)
 
 ---
 
 ## 📫 **Get in Touch**
 - **Email**: nchimunya.backlogcode@gmail.com  
-- **LinkedIn**: [Joseph Matthias Nchimunya](https://www.linkedin.com/in/joseph-nchimunya/)  
+- **LinkedIn**: [Joseph Matthias Nchimunya](https://www.linkedin.com/in/joseph-nchimunya-4aaa54198)  
 - **Twitter**: [@xvllltwo](https://twitter.com/xvlll8two)  
