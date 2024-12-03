@@ -50,6 +50,11 @@ Welcome to my GitHub profile! I'm passionate about building scalable backend sol
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)  
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)  
 
+**DevOps & Platforms**:  
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)  
+![Nginx](https://img.shields.io/badge/-Nginx-333?style=flat&logo=nginx)  
+![Puppet](https://img.shields.io/badge/-Puppet-333?style=flat&logo=puppet)  
+
 **Development Tools**:  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visualstudiocode)  
 ![CLion](https://img.shields.io/badge/-CLion-333?style=flat&logo=jetbrains)  
