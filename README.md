@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable backend sol
    - **Tech Stack**: Kotlin Compose, Retrofit, Room Database, Jetpack Libraries.  
 
 3. **Online Auction Website**:  
-   - Demo live on PythonAnywhere.  
+   - Demo live on PythonAnywhere (currently down).
    - Optimized for performance and scalability.  
 
 ---
