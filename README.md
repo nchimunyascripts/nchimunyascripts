@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable backend sol
 - 👨‍🏫 **Tutor**: Teaching backend, web, and mobile app development at Mukono College.  
 - 🔧 **Skills**:
   - **Backend Development**: Node.js, Python (Flask, Django, FastAPI), Java, Kotlin, Express.js.  
-  - **Frontend Development**: React, React Native.  
+  - **Frontend Development**: React, React Native, **TypeScript**.  
   - **Databases**: MySQL, PostgreSQL, MongoDB.  
   - **Mobile Development**: Kotlin, Java.  
   - **Programming Languages**: C, C++, PHP.  
@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable backend sol
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat&logo=kotlin)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)  
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)  
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)  
 
