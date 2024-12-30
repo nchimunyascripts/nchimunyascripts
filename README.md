@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm passionate about building scalable backend sol
 ---
 
 ## 🚀 **About Me**
-- 🎓 **Education**: Computer Science graduate from Gideons Roberts University (2020).  
+- 🎓 **Education**: Computer Science graduate from Gideon Robert University (2019).  
 - 👨‍🏫 **Tutor**: Teaching backend, web, and mobile app development at Mukono College.  
 - 🔧 **Skills**:
   - **Backend Development**: Node.js, Python (Flask, Django, FastAPI), Java, Kotlin, Express.js.  
-  - **Frontend Development**: React, React Native, **TypeScript**.  
+  - **Frontend Development**: React, React Native, TypeScript.  
   - **Databases**: MySQL, PostgreSQL, MongoDB.  
   - **Mobile Development**: Kotlin, Java.  
   - **Programming Languages**: C, C++, PHP.  
